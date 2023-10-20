@@ -21,8 +21,8 @@ public class Garage {
 	}
 
 	@Override
-	public String toString() {
-		return "Garage " + name;
+	public String toString(){
+	return "Garage " + name  ;
 	}
 
 }
